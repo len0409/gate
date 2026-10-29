@@ -29,6 +29,174 @@ mode: rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
+- name: ⚡高速-01(356ms)
+  type: vless
+  server: 172.66.0.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: ⚡高速-02(783ms)
+  type: vless
+  server: 104.27.0.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: ⚡高速-03(787ms)
+  type: vless
+  server: 188.114.96.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: ⚡高速-04(793ms)
+  type: vless
+  server: 104.25.0.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: ⚡高速-05(798ms)
+  type: vless
+  server: 104.26.0.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: ⚡高速-06(799ms)
+  type: vless
+  server: 104.17.0.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: ⚡高速-07(810ms)
+  type: vless
+  server: 188.114.99.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: ⚡高速-08(816ms)
+  type: vless
+  server: 104.21.0.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: ⚡高速-09(822ms)
+  type: vless
+  server: 104.20.0.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: ⚡高速-10(833ms)
+  type: vless
+  server: 104.24.0.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: ⚡高速-11(834ms)
+  type: vless
+  server: 104.21.42.241
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: ⚡高速-12(847ms)
+  type: vless
+  server: 104.18.0.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
 - name: SG-新加坡-01
   type: vless
   server: 104.21.42.241
@@ -964,6 +1132,24 @@ proxies:
     headers:
       Host: proxy.chenlen1234.us.ci
 proxy-groups:
+- name: ⚡ 高速-Worker
+  type: url-test
+  proxies:
+  - ⚡高速-01(356ms)
+  - ⚡高速-02(783ms)
+  - ⚡高速-03(787ms)
+  - ⚡高速-04(793ms)
+  - ⚡高速-05(798ms)
+  - ⚡高速-06(799ms)
+  - ⚡高速-07(810ms)
+  - ⚡高速-08(816ms)
+  - ⚡高速-09(822ms)
+  - ⚡高速-10(833ms)
+  - ⚡高速-11(834ms)
+  - ⚡高速-12(847ms)
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  tolerance: 100
 - name: ⚡ 快速-SG
   type: url-test
   proxies:
@@ -1043,6 +1229,7 @@ proxy-groups:
 - name: 🚀 节点选择
   type: select
   proxies:
+  - ⚡ 高速-Worker
   - ⚡ 快速-SG
   - 🏠 住宅节点
   - ♻️ 自动选择
