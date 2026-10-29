@@ -351,7 +351,7 @@ proxies:
     path: /
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: SG-新加坡-01
+- name: 🇸🇬新加坡01(1755ms)
   type: vless
   server: 104.21.42.241
   port: 443
@@ -367,7 +367,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-02
+- name: 🇸🇬新加坡02(1763ms)
   type: vless
   server: 104.26.0.1
   port: 443
@@ -383,7 +383,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-03
+- name: 🇸🇬新加坡03(1753ms)
   type: vless
   server: 188.114.99.1
   port: 443
@@ -399,7 +399,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-04
+- name: 🇸🇬新加坡04(1827ms)
   type: vless
   server: 104.20.0.1
   port: 443
@@ -415,7 +415,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-05
+- name: 🇸🇬新加坡05(1739ms)
   type: vless
   server: 104.25.0.1
   port: 443
@@ -431,7 +431,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-06
+- name: 🇸🇬新加坡06(1751ms)
   type: vless
   server: 104.24.0.1
   port: 443
@@ -447,7 +447,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-07
+- name: 🇸🇬新加坡07(389ms)
   type: vless
   server: 172.66.0.1
   port: 443
@@ -463,7 +463,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-08
+- name: 🇸🇬新加坡08(1659ms)
   type: vless
   server: 172.67.213.108
   port: 443
@@ -479,7 +479,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-09
+- name: 🇸🇬新加坡09(2542ms)
   type: vless
   server: 104.16.0.1
   port: 443
@@ -495,7 +495,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-10
+- name: 🇸🇬新加坡10(1557ms)
   type: vless
   server: 188.114.97.1
   port: 443
@@ -511,7 +511,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-11
+- name: 🇸🇬新加坡11(1563ms)
   type: vless
   server: 162.159.0.1
   port: 443
@@ -527,7 +527,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-12
+- name: 🇸🇬新加坡12(1513ms)
   type: vless
   server: 104.19.0.1
   port: 443
@@ -543,7 +543,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-13
+- name: 🇸🇬新加坡13(1497ms)
   type: vless
   server: 104.17.0.1
   port: 443
@@ -559,7 +559,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-14
+- name: 🇸🇬新加坡14(1708ms)
   type: vless
   server: 104.27.0.1
   port: 443
@@ -575,7 +575,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-15
+- name: 🇸🇬新加坡15(1721ms)
   type: vless
   server: 188.114.96.1
   port: 443
@@ -591,7 +591,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-16
+- name: 🇸🇬新加坡16(1496ms)
   type: vless
   server: 188.114.98.1
   port: 443
@@ -607,7 +607,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-17
+- name: 🇸🇬新加坡17(1689ms)
   type: vless
   server: 162.159.1.1
   port: 443
@@ -623,7 +623,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-18
+- name: 🇸🇬新加坡18(1469ms)
   type: vless
   server: 104.18.0.1
   port: 443
@@ -639,7 +639,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-19
+- name: 🇸🇬新加坡19(1546ms)
   type: vless
   server: 104.21.0.1
   port: 443
@@ -655,7 +655,7 @@ proxies:
       Host: sg.chenlen1234.us.ci
     max-early-data: 2048
     early-data-header-name: Sec-WebSocket-Protocol
-- name: 韩国-住宅-01
+- name: 🇰🇷韩国住宅01(3056ms)
   server: 172.66.0.172
   port: 443
   type: vless
@@ -669,7 +669,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAwCWFEEC1RcBxZfQlIKU0UDXgFMEQEWQV4XWRoCAwMZA0k=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-02
+- name: 🇰🇷韩国住宅02(3555ms)
   server: 172.66.0.118
   port: 443
   type: vless
@@ -683,7 +683,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAYAUVYGDVxSBBZfQlIKU0UDXgFMEQEWQV4XWRoCCw0YSA==
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-03
+- name: 🇰🇷韩国住宅03(4470ms)
   server: 172.66.1.250
   port: 443
   type: vless
@@ -697,7 +697,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCA0BU1YACFNcAxZfQlIKU0UDXgFMEQEWQV4XWRoCAwAeAEk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-04
+- name: 🇰🇷韩国住宅04(3412ms)
   server: 188.164.248.18
   port: 443
   type: vless
@@ -711,7 +711,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAIHUlcAC1dXDxZfQlIKU0UDXgFMEQEWQV4XWRoCAwYdAEk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-05
+- name: 🇰🇷韩国住宅05(3397ms)
   server: 188.164.248.143
   port: 443
   type: vless
@@ -725,7 +725,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAMLUFAFDVVQBRZfQlIKU0UDXgFMEQEWQV4XWRoCCw0YSA==
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-06
+- name: 🇰🇷韩国住宅06(2692ms)
   server: 104.17.145.145
   port: 443
   type: vless
@@ -739,7 +739,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAcKV1QFAFVVBhZfQlIKU0UDXgFMEQEWQV4XWRoCAwMVAkk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-07
+- name: 🇰🇷韩国住宅07(1923ms)
   server: 172.66.0.172
   port: 443
   type: vless
@@ -753,7 +753,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAEDWV8CDFJdDxZfQlIKU0UDXgFMEQEWQV4XWRoCCw0YSA==
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-08
+- name: 🇰🇷韩国住宅08(1631ms)
   server: 172.66.0.118
   port: 443
   type: vless
@@ -767,7 +767,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAMBVlENCFdRBhZfQlIKU0UDXgFMEQEWQV4XWRoCAwEUBkk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-09
+- name: 🇰🇷韩国住宅09(3466ms)
   server: 172.66.1.250
   port: 443
   type: vless
@@ -781,7 +781,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAwDVFMECFBRDhZfQlIKU0UDXgFMEQEWQV4XWRoCCw0YSA==
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-10
+- name: 🇰🇷韩国住宅10(3515ms)
   server: 188.164.248.18
   port: 443
   type: vless
@@ -795,7 +795,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAMKV1YFDlBUAxZfQlIKU0UDXgFMEQEWQV4XWRoCAwMYBUk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-11
+- name: 🇰🇷韩国住宅11(3507ms)
   server: 188.164.248.143
   port: 443
   type: vless
@@ -809,7 +809,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAIDU1MCAVVSBBZfQlIKU0UDXgFMEQEWQV4XWRoCAwwfDUk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-12
+- name: 🇰🇷韩国住宅12(3794ms)
   server: 104.17.145.145
   port: 443
   type: vless
@@ -823,7 +823,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAwCU1MADF1XAxZfQlIKU0UDXgFMEQEWQV4XWRoCAwcdBEk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-13
+- name: 🇰🇷韩国住宅13(10420ms)
   server: 172.66.0.172
   port: 443
   type: vless
@@ -837,7 +837,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAAAUFMGDlRTBxZfQlIKU0UDXgFMEQEWQV4XWRoCAwcVDEk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-14
+- name: 🇰🇷韩国住宅14(3546ms)
   server: 172.66.0.118
   port: 443
   type: vless
@@ -851,7 +851,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCA0CUFcNAFFTBxZfQlIKU0UDXgFMEQEWQV4XWRoCCw0YSA==
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-15
+- name: 🇰🇷韩国住宅15(3901ms)
   server: 172.66.1.250
   port: 443
   type: vless
@@ -865,7 +865,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAIBV1EECFBVAhZfQlIKU0UDXgFMEQEWQV4XWRoCAwcVAUk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-16
+- name: 🇰🇷韩国住宅16(2932ms)
   server: 188.164.248.18
   port: 443
   type: vless
@@ -879,7 +879,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAEEU18CCFxdDhZfQlIKU0UDXgFMEQEWQV4XWRoCAwYUBUk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-17
+- name: 🇰🇷韩国住宅17(1659ms)
   server: 188.164.248.143
   port: 443
   type: vless
@@ -893,7 +893,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCA0CVFQGCVdWAxZfQlIKU0UDXgFMEQEWQV4XWRoCAwYbAUk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-18
+- name: 🇰🇷韩国住宅18(2026ms)
   server: 104.17.145.145
   port: 443
   type: vless
@@ -907,7 +907,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAwDUV4ADlFSABZfQlIKU0UDXgFMEQEWQV4XWRoCAwwfBkk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-19
+- name: 🇰🇷韩国住宅19(10214ms)
   server: 172.66.0.172
   port: 443
   type: vless
@@ -921,7 +921,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAABUF8EC1dcDxZfQlIKU0UDXgFMEQEWQV4XWRoCAwIdB0k=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-20
+- name: 🇰🇷韩国住宅20(2612ms)
   server: 172.66.0.118
   port: 443
   type: vless
@@ -935,7 +935,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAMGVV8BD1JWBRZfQlIKU0UDXgFMEQEWQV4XWRoCCw0YSA==
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-21
+- name: 🇰🇷韩国住宅21(5461ms)
   server: 172.66.1.250
   port: 443
   type: vless
@@ -949,7 +949,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAYCVFENCFRVBBZfQlIKU0UDXgFMEQEWQV4XWRoCAwYaAUk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-22
+- name: 🇰🇷韩国住宅22(2020ms)
   server: 188.164.248.18
   port: 443
   type: vless
@@ -963,7 +963,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAEDVF4BDV1TARZfQlIKU0UDXgFMEQEWQV4XWRoCAw0dDUk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 韩国-住宅-23
+- name: 🇰🇷韩国住宅23(12004ms)
   server: 188.164.248.143
   port: 443
   type: vless
@@ -977,7 +977,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAYAV1cHAV1dDhZfQlIKU0UDXgFMEQEWQV4XWRoCAwcVBEk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 日本-住宅-01
+- name: 🇯🇵日本住宅01(2473ms)
   server: 104.17.145.145
   port: 443
   type: vless
@@ -991,7 +991,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAMBUVEDC1dWBhZfQlIKU0UDXgFMEQEWQV4XWRoCAwYbDEk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 日本-住宅-02
+- name: 🇯🇵日本住宅02(1774ms)
   server: 172.66.0.172
   port: 443
   type: vless
@@ -1005,7 +1005,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAEFVl8BAFJWARZfQlIKU0UDXgFMEQEWQV4XWRoCAwcdA0k=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 日本-住宅-03
+- name: 🇯🇵日本住宅03(3186ms)
   server: 172.66.0.118
   port: 443
   type: vless
@@ -1019,7 +1019,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAcKUVYMAVZdARZfQlIKU0UDXgFMEQEWQV4XWRoCCw0YSA==
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 日本-住宅-04
+- name: 🇯🇵日本住宅04(3008ms)
   server: 172.66.1.250
   port: 443
   type: vless
@@ -1033,7 +1033,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAMAUV8GCFdXABZfQlIKU0UDXgFMEQEWQV4XWRoCAwwaAEk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 日本-住宅-05
+- name: 🇯🇵日本住宅05(3174ms)
   server: 188.164.248.18
   port: 443
   type: vless
@@ -1047,7 +1047,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAIFUF8MC0oLRl1eVUBKWldZEkgaQ0JGRRNfGg0NA0k=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 日本-住宅-06
+- name: 🇯🇵日本住宅06(3160ms)
   server: 188.164.248.143
   port: 443
   type: vless
@@ -1061,7 +1061,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCA0GUl8CCVZWAhZfQlIKU0UDXgFMEQEWQV4XWRoCAwYfBkk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 日本-住宅-07
+- name: 🇯🇵日本住宅07(2376ms)
   server: 104.17.145.145
   port: 443
   type: vless
@@ -1075,7 +1075,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAEBVFEAC1dTARZfQlIKU0UDXgFMEQEWQV4XWRoCAwEcBEk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 日本-住宅-08
+- name: 🇯🇵日本住宅08(2380ms)
   server: 172.66.0.172
   port: 443
   type: vless
@@ -1089,7 +1089,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAYBUlIDClJSARZfQlIKU0UDXgFMEQEWQV4XWRoCAwwfB0k=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 日本-住宅-09
+- name: 🇯🇵日本住宅09(2329ms)
   server: 172.66.0.118
   port: 443
   type: vless
@@ -1103,7 +1103,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAELU1cGDFJWABZfQlIKU0UDXgFMEQEWQV4XWRoCAwcYDUk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 日本-住宅-10
+- name: 🇯🇵日本住宅10(5363ms)
   server: 172.66.1.250
   port: 443
   type: vless
@@ -1117,7 +1117,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCA0CUl8ECVRVBBZfQlIKU0UDXgFMEQEWQV4XWRoCAwwcAkk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 日本-住宅-11
+- name: 🇯🇵日本住宅11(2935ms)
   server: 188.164.248.18
   port: 443
   type: vless
@@ -1131,7 +1131,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAEBUFACC11XDxZfQlIKU0UDXgFMEQEWQV4XWRoCAwcUBkk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 俄罗斯-住宅-01
+- name: 🇷🇺俄罗斯住宅01(4291ms)
   server: 188.164.248.143
   port: 443
   type: vless
@@ -1145,7 +1145,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAIDVl4HDFxUDxZfQlIKU0UDXgFMEQEWQV4XWRoCAw0fBEk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 俄罗斯-住宅-02
+- name: 🇷🇺俄罗斯住宅02(4116ms)
   server: 104.17.145.145
   port: 443
   type: vless
@@ -1159,7 +1159,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAELUF8BAFVSBBZfQlIKU0UDXgFMEQEWQV4XWRoCAwYbBUk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 俄罗斯-住宅-03
+- name: 🇷🇺俄罗斯住宅03(5349ms)
   server: 172.66.0.172
   port: 443
   type: vless
@@ -1173,7 +1173,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAACU14HAV1XBhZfQlIKU0UDXgFMEQEWQV4XWRoCAwYfDEk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 俄罗斯-住宅-04
+- name: 🇷🇺俄罗斯住宅04(5108ms)
   server: 172.66.0.118
   port: 443
   type: vless
@@ -1187,7 +1187,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAADU1IAClBVAhZfQlIKU0UDXgFMEQEWQV4XWRoCAwwbDUk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 俄罗斯-住宅-05
+- name: 🇷🇺俄罗斯住宅05(4135ms)
   server: 172.66.1.250
   port: 443
   type: vless
@@ -1201,7 +1201,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAEKU1YCC11XDxZfQlIKU0UDXgFMEQEWQV4XWRoCAwMdDUk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 澳大利亚-住宅-01
+- name: 🇦🇺澳大利亚住宅01(3268ms)
   server: 188.164.248.18
   port: 443
   type: vless
@@ -1215,7 +1215,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAMFUFAFClJVBxZfQlIKU0UDXgFMEQEWQV4XWRoCAwwVBkk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 澳大利亚-住宅-02
+- name: 🇦🇺澳大利亚住宅02(3865ms)
   server: 188.164.248.143
   port: 443
   type: vless
@@ -1229,7 +1229,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAUFVVIDCFFcABZfQlIKU0UDXgFMEQEWQV4XWRoCAwYeBEk=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 美国-机房-01
+- name: 🇺🇸美国机房01(4279ms)
   server: 104.17.145.145
   port: 443
   type: vless
@@ -1243,7 +1243,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAELVlMNDVVVBhZfQlIKU0UDXgFMEQEWQV4XWRoCAwMcA0k=
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 美国-机房-02
+- name: 🇺🇸美国机房02(3422ms)
   server: 172.66.0.172
   port: 443
   type: vless
@@ -1257,7 +1257,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAYKVVENDVVRBRZfQlIKU0UDXgFMEQEWQV4XWRoCCw0YSA==
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 加拿大-住宅-01
+- name: 🇨🇦加拿大住宅01(3144ms)
   server: 172.66.0.118
   port: 443
   type: vless
@@ -1271,7 +1271,7 @@ proxies:
     path: /video/TRpES0cBFggPQxdMQw8YE0QWSEpWU1lIFw5HEERdQ0oWSQUXRU9fQFNGDhBbQAoaHw9cXkIRQ1lVVxYXF0IVCAABUFIFD1RcARZfQlIKU0UDXgFMEQEWQV4XWRoCCw0YSA==
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: 香港-住宅-01
+- name: 🇭🇰香港住宅01(6967ms)
   server: 172.66.1.250
   port: 443
   type: vless
@@ -1350,88 +1350,91 @@ proxy-groups:
   url: http://www.gstatic.com/generate_204
   interval: 300
   tolerance: 80
-- name: ⚡ 快速-SG
+- name: 🇸🇬 新加坡节点
   type: url-test
   proxies:
-  - SG-新加坡-01
-  - SG-新加坡-02
-  - SG-新加坡-03
-  - SG-新加坡-04
-  - SG-新加坡-05
-  - SG-新加坡-06
-  - SG-新加坡-07
-  - SG-新加坡-08
-  - SG-新加坡-09
-  - SG-新加坡-10
-  - SG-新加坡-11
-  - SG-新加坡-12
-  - SG-新加坡-13
-  - SG-新加坡-14
-  - SG-新加坡-15
-  - SG-新加坡-16
-  - SG-新加坡-17
-  - SG-新加坡-18
-  - SG-新加坡-19
-  url: https://www.gstatic.com/generate_204
+  - 🇸🇬新加坡07(389ms)
+  - 🇸🇬新加坡18(1469ms)
+  - 🇸🇬新加坡16(1496ms)
+  - 🇸🇬新加坡13(1497ms)
+  - 🇸🇬新加坡12(1513ms)
+  - 🇸🇬新加坡19(1546ms)
+  - 🇸🇬新加坡10(1557ms)
+  - 🇸🇬新加坡11(1563ms)
+  - 🇸🇬新加坡08(1659ms)
+  - 🇸🇬新加坡17(1689ms)
+  - 🇸🇬新加坡14(1708ms)
+  - 🇸🇬新加坡15(1721ms)
+  - 🇸🇬新加坡05(1739ms)
+  - 🇸🇬新加坡06(1751ms)
+  - 🇸🇬新加坡03(1753ms)
+  - 🇸🇬新加坡01(1755ms)
+  - 🇸🇬新加坡02(1763ms)
+  - 🇸🇬新加坡04(1827ms)
+  - 🇸🇬新加坡09(2542ms)
+  url: http://www.gstatic.com/generate_204
   interval: 300
-  tolerance: 50
+  tolerance: 100
 - name: 🏠 住宅节点
   type: url-test
   proxies:
-  - 韩国-住宅-01
-  - 韩国-住宅-02
-  - 韩国-住宅-03
-  - 韩国-住宅-04
-  - 韩国-住宅-05
-  - 韩国-住宅-06
-  - 韩国-住宅-07
-  - 韩国-住宅-08
-  - 韩国-住宅-09
-  - 韩国-住宅-10
-  - 韩国-住宅-11
-  - 韩国-住宅-12
-  - 韩国-住宅-13
-  - 韩国-住宅-14
-  - 韩国-住宅-15
-  - 韩国-住宅-16
-  - 韩国-住宅-17
-  - 韩国-住宅-18
-  - 韩国-住宅-19
-  - 韩国-住宅-20
-  - 韩国-住宅-21
-  - 韩国-住宅-22
-  - 韩国-住宅-23
-  - 日本-住宅-01
-  - 日本-住宅-02
-  - 日本-住宅-03
-  - 日本-住宅-04
-  - 日本-住宅-05
-  - 日本-住宅-06
-  - 日本-住宅-07
-  - 日本-住宅-08
-  - 日本-住宅-09
-  - 日本-住宅-10
-  - 日本-住宅-11
-  - 俄罗斯-住宅-01
-  - 俄罗斯-住宅-02
-  - 俄罗斯-住宅-03
-  - 俄罗斯-住宅-04
-  - 俄罗斯-住宅-05
-  - 澳大利亚-住宅-01
-  - 澳大利亚-住宅-02
-  - 美国-机房-01
-  - 美国-机房-02
-  - 加拿大-住宅-01
-  - 香港-住宅-01
-  url: https://www.gstatic.com/generate_204
+  - 🇰🇷韩国住宅08(1631ms)
+  - 🇰🇷韩国住宅17(1659ms)
+  - 🇯🇵日本住宅02(1774ms)
+  - 🇰🇷韩国住宅07(1923ms)
+  - 🇰🇷韩国住宅22(2020ms)
+  - 🇰🇷韩国住宅18(2026ms)
+  - 🇯🇵日本住宅09(2329ms)
+  - 🇯🇵日本住宅07(2376ms)
+  - 🇯🇵日本住宅08(2380ms)
+  - 🇯🇵日本住宅01(2473ms)
+  - 🇰🇷韩国住宅20(2612ms)
+  - 🇰🇷韩国住宅06(2692ms)
+  - 🇰🇷韩国住宅16(2932ms)
+  - 🇯🇵日本住宅11(2935ms)
+  - 🇯🇵日本住宅04(3008ms)
+  - 🇰🇷韩国住宅01(3056ms)
+  - 🇨🇦加拿大住宅01(3144ms)
+  - 🇯🇵日本住宅06(3160ms)
+  - 🇯🇵日本住宅05(3174ms)
+  - 🇯🇵日本住宅03(3186ms)
+  - 🇦🇺澳大利亚住宅01(3268ms)
+  - 🇰🇷韩国住宅05(3397ms)
+  - 🇰🇷韩国住宅04(3412ms)
+  - 🇺🇸美国机房02(3422ms)
+  - 🇰🇷韩国住宅09(3466ms)
+  - 🇰🇷韩国住宅11(3507ms)
+  - 🇰🇷韩国住宅10(3515ms)
+  - 🇰🇷韩国住宅14(3546ms)
+  - 🇰🇷韩国住宅02(3555ms)
+  - 🇰🇷韩国住宅12(3794ms)
+  - 🇦🇺澳大利亚住宅02(3865ms)
+  - 🇰🇷韩国住宅15(3901ms)
+  - 🇷🇺俄罗斯住宅02(4116ms)
+  - 🇷🇺俄罗斯住宅05(4135ms)
+  - 🇺🇸美国机房01(4279ms)
+  - 🇷🇺俄罗斯住宅01(4291ms)
+  - 🇰🇷韩国住宅03(4470ms)
+  - 🇷🇺俄罗斯住宅04(5108ms)
+  - 🇷🇺俄罗斯住宅03(5349ms)
+  - 🇯🇵日本住宅10(5363ms)
+  - 🇰🇷韩国住宅21(5461ms)
+  - 🇭🇰香港住宅01(6967ms)
+  - 🇰🇷韩国住宅19(10214ms)
+  - 🇰🇷韩国住宅13(10420ms)
+  - 🇰🇷韩国住宅23(12004ms)
+  url: http://www.gstatic.com/generate_204
   interval: 300
-  tolerance: 50
+  tolerance: 100
 - name: 🚀 节点选择
   type: select
   proxies:
   - ⚡ 高速-Worker
-  - ⚡ 快速-SG
+  - 🇭🇰 香港节点
+  - 🇺🇸 美国节点
+  - 🇸🇬 新加坡节点
   - 🏠 住宅节点
+  - ⚡ 高速-Worker
   - ♻️ 自动选择
   - 🔯 故障转移
   - 🔮 负载均衡
