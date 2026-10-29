@@ -29,22 +29,6 @@ mode: rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-- name: SG-新加坡-域名
-  type: vless
-  server: sg.chenlen1234.us.ci
-  port: 443
-  uuid: c561e992-c8cd-454a-9655-69e3153d0708
-  udp: true
-  tls: true
-  servername: sg.chenlen1234.us.ci
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /sg27fccd793d81
-    headers:
-      Host: sg.chenlen1234.us.ci
-    max-early-data: 2048
-    early-data-header-name: Sec-WebSocket-Protocol
 - name: SG-新加坡-优选IP1
   type: vless
   server: 104.26.0.1
@@ -64,38 +48,6 @@ proxies:
 - name: SG-新加坡-优选IP2
   type: vless
   server: 104.18.0.1
-  port: 443
-  uuid: c561e992-c8cd-454a-9655-69e3153d0708
-  udp: true
-  tls: true
-  servername: sg.chenlen1234.us.ci
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /sg27fccd793d81
-    headers:
-      Host: sg.chenlen1234.us.ci
-    max-early-data: 2048
-    early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-优选IP3
-  type: vless
-  server: 172.64.0.1
-  port: 443
-  uuid: c561e992-c8cd-454a-9655-69e3153d0708
-  udp: true
-  tls: true
-  servername: sg.chenlen1234.us.ci
-  client-fingerprint: chrome
-  network: ws
-  ws-opts:
-    path: /sg27fccd793d81
-    headers:
-      Host: sg.chenlen1234.us.ci
-    max-early-data: 2048
-    early-data-header-name: Sec-WebSocket-Protocol
-- name: SG-新加坡-优选IP4
-  type: vless
-  server: 162.159.36.1
   port: 443
   uuid: c561e992-c8cd-454a-9655-69e3153d0708
   udp: true
@@ -743,11 +695,8 @@ proxy-groups:
 - name: ⚡ 快速-SG
   type: url-test
   proxies:
-  - SG-新加坡-域名
   - SG-新加坡-优选IP1
   - SG-新加坡-优选IP2
-  - SG-新加坡-优选IP3
-  - SG-新加坡-优选IP4
   url: https://www.gstatic.com/generate_204
   interval: 300
   tolerance: 50
