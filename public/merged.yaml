@@ -29,7 +29,21 @@ mode: rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-- name: ⚡高速-01(356ms)
+- name: 🇭🇰香港01(184ms)
+  type: vless
+  server: 172.66.2.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: 🇭🇰香港02(223ms)
   type: vless
   server: 172.66.0.1
   port: 443
@@ -43,7 +57,119 @@ proxies:
     path: /
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: ⚡高速-02(783ms)
+- name: 🇭🇰香港03(244ms)
+  type: vless
+  server: 172.66.1.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: 🇺🇸美国01(686ms)
+  type: vless
+  server: 104.26.3.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: 🇺🇸美国02(721ms)
+  type: vless
+  server: 104.26.1.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: 🇺🇸美国03(726ms)
+  type: vless
+  server: 104.26.2.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: 🇺🇸美国04(750ms)
+  type: vless
+  server: 104.25.3.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: 🇺🇸美国05(759ms)
+  type: vless
+  server: 104.24.3.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: 🇺🇸美国06(776ms)
+  type: vless
+  server: 104.18.2.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: 🇺🇸美国07(777ms)
+  type: vless
+  server: 188.114.98.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: 🇺🇸美国08(782ms)
   type: vless
   server: 104.27.0.1
   port: 443
@@ -57,9 +183,9 @@ proxies:
     path: /
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: ⚡高速-03(787ms)
+- name: 🇺🇸美国09(809ms)
   type: vless
-  server: 188.114.96.1
+  server: 104.25.2.1
   port: 443
   uuid: 68027d42-0d83-411e-8824-54ef43af49dd
   udp: true
@@ -71,9 +197,9 @@ proxies:
     path: /
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: ⚡高速-04(793ms)
+- name: 🇺🇸美国10(811ms)
   type: vless
-  server: 104.25.0.1
+  server: 104.20.2.1
   port: 443
   uuid: 68027d42-0d83-411e-8824-54ef43af49dd
   udp: true
@@ -85,9 +211,9 @@ proxies:
     path: /
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: ⚡高速-05(798ms)
+- name: 🇺🇸美国11(813ms)
   type: vless
-  server: 104.26.0.1
+  server: 104.18.0.1
   port: 443
   uuid: 68027d42-0d83-411e-8824-54ef43af49dd
   udp: true
@@ -99,9 +225,9 @@ proxies:
     path: /
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: ⚡高速-06(799ms)
+- name: 🇺🇸美国12(815ms)
   type: vless
-  server: 104.17.0.1
+  server: 104.18.1.1
   port: 443
   uuid: 68027d42-0d83-411e-8824-54ef43af49dd
   udp: true
@@ -113,9 +239,9 @@ proxies:
     path: /
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: ⚡高速-07(810ms)
+- name: 🇺🇸美国13(821ms)
   type: vless
-  server: 188.114.99.1
+  server: 104.20.1.1
   port: 443
   uuid: 68027d42-0d83-411e-8824-54ef43af49dd
   udp: true
@@ -127,9 +253,9 @@ proxies:
     path: /
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: ⚡高速-08(816ms)
+- name: 🇺🇸美国14(829ms)
   type: vless
-  server: 104.21.0.1
+  server: 188.114.99.2
   port: 443
   uuid: 68027d42-0d83-411e-8824-54ef43af49dd
   udp: true
@@ -141,7 +267,7 @@ proxies:
     path: /
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: ⚡高速-09(822ms)
+- name: 🇺🇸美国15(836ms)
   type: vless
   server: 104.20.0.1
   port: 443
@@ -155,9 +281,9 @@ proxies:
     path: /
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: ⚡高速-10(833ms)
+- name: 🇺🇸美国16(849ms)
   type: vless
-  server: 104.24.0.1
+  server: 104.27.2.1
   port: 443
   uuid: 68027d42-0d83-411e-8824-54ef43af49dd
   udp: true
@@ -169,9 +295,9 @@ proxies:
     path: /
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: ⚡高速-11(834ms)
+- name: 🇺🇸美国17(854ms)
   type: vless
-  server: 104.21.42.241
+  server: 104.27.3.1
   port: 443
   uuid: 68027d42-0d83-411e-8824-54ef43af49dd
   udp: true
@@ -183,9 +309,37 @@ proxies:
     path: /
     headers:
       Host: proxy.chenlen1234.us.ci
-- name: ⚡高速-12(847ms)
+- name: 🇺🇸美国18(888ms)
   type: vless
-  server: 104.18.0.1
+  server: 104.25.0.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: 🇺🇸美国19(902ms)
+  type: vless
+  server: 188.114.96.1
+  port: 443
+  uuid: 68027d42-0d83-411e-8824-54ef43af49dd
+  udp: true
+  tls: true
+  servername: proxy.chenlen1234.us.ci
+  client-fingerprint: chrome
+  network: ws
+  ws-opts:
+    path: /
+    headers:
+      Host: proxy.chenlen1234.us.ci
+- name: 🇺🇸美国20(932ms)
+  type: vless
+  server: 104.17.1.1
   port: 443
   uuid: 68027d42-0d83-411e-8824-54ef43af49dd
   udp: true
@@ -1135,21 +1289,67 @@ proxy-groups:
 - name: ⚡ 高速-Worker
   type: url-test
   proxies:
-  - ⚡高速-01(356ms)
-  - ⚡高速-02(783ms)
-  - ⚡高速-03(787ms)
-  - ⚡高速-04(793ms)
-  - ⚡高速-05(798ms)
-  - ⚡高速-06(799ms)
-  - ⚡高速-07(810ms)
-  - ⚡高速-08(816ms)
-  - ⚡高速-09(822ms)
-  - ⚡高速-10(833ms)
-  - ⚡高速-11(834ms)
-  - ⚡高速-12(847ms)
+  - 🇭🇰香港01(184ms)
+  - 🇭🇰香港02(223ms)
+  - 🇭🇰香港03(244ms)
+  - 🇺🇸美国01(686ms)
+  - 🇺🇸美国02(721ms)
+  - 🇺🇸美国03(726ms)
+  - 🇺🇸美国04(750ms)
+  - 🇺🇸美国05(759ms)
+  - 🇺🇸美国06(776ms)
+  - 🇺🇸美国07(777ms)
+  - 🇺🇸美国08(782ms)
+  - 🇺🇸美国09(809ms)
+  - 🇺🇸美国10(811ms)
+  - 🇺🇸美国11(813ms)
+  - 🇺🇸美国12(815ms)
+  - 🇺🇸美国13(821ms)
+  - 🇺🇸美国14(829ms)
+  - 🇺🇸美国15(836ms)
+  - 🇺🇸美国16(849ms)
+  - 🇺🇸美国17(854ms)
+  - 🇺🇸美国18(888ms)
+  - 🇺🇸美国19(902ms)
+  - 🇺🇸美国20(932ms)
   url: http://www.gstatic.com/generate_204
   interval: 300
-  tolerance: 100
+  tolerance: 80
+- name: 🇭🇰 香港节点
+  type: url-test
+  proxies:
+  - 🇭🇰香港01(184ms)
+  - 🇭🇰香港02(223ms)
+  - 🇭🇰香港03(244ms)
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  tolerance: 80
+- name: 🇺🇸 美国节点
+  type: url-test
+  proxies:
+  - 🇺🇸美国01(686ms)
+  - 🇺🇸美国02(721ms)
+  - 🇺🇸美国03(726ms)
+  - 🇺🇸美国04(750ms)
+  - 🇺🇸美国05(759ms)
+  - 🇺🇸美国06(776ms)
+  - 🇺🇸美国07(777ms)
+  - 🇺🇸美国08(782ms)
+  - 🇺🇸美国09(809ms)
+  - 🇺🇸美国10(811ms)
+  - 🇺🇸美国11(813ms)
+  - 🇺🇸美国12(815ms)
+  - 🇺🇸美国13(821ms)
+  - 🇺🇸美国14(829ms)
+  - 🇺🇸美国15(836ms)
+  - 🇺🇸美国16(849ms)
+  - 🇺🇸美国17(854ms)
+  - 🇺🇸美国18(888ms)
+  - 🇺🇸美国19(902ms)
+  - 🇺🇸美国20(932ms)
+  url: http://www.gstatic.com/generate_204
+  interval: 300
+  tolerance: 80
 - name: ⚡ 快速-SG
   type: url-test
   proxies:
